@@ -80,21 +80,8 @@ namespace ConsoleApp16
         
     }
     }
-    class Menüm
-    { 
-    
-public static void Menum() { 
-
-        Console.WriteLine(" Lütfen yapmak istediğiniz işlemi seçiniz:");
-            Console.WriteLine("(1) Board Listelemek");
-            Console.WriteLine(" (2) Board'a Kart Eklemek");
-            Console.WriteLine("(3) Board'dan Kart Silmek");
-            Console.WriteLine("(4) Kart Taşımak");
-       
+   
 
 
-    }
 
-
-    }
 
